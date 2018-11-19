@@ -1,6 +1,5 @@
 {
     "name": "greenbean/stop-watch",
-    "version": "0.0.1",
     "description": "Used for testing and determining how long script is running..",
     "type": "project",
     "authors": [
@@ -9,7 +8,6 @@
             "email": "villascape@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0"
     },
